@@ -95,3 +95,7 @@ Last year I started using `ChatGPT` and finding out the latest news📰 about `n
 
 ***
 
+### Languages:
+* English - `Intermediate`
+* Russian, Belarusian - `Native`
+* Polish - `Intermediate`
