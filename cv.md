@@ -20,3 +20,13 @@ Last year I started using `ChatGPT` and finding out the latest news📰 about `n
 __With a strong drive for self-improvement and passion for programming🖥️🖱️ and  neural networks🤖, I am excited to embark on this journey🚢 to achieve my goals🎯 in the IT industry💻.__
 
 ***
+
+### Skills:
+
+ * HTML, CSS
+ * JavaScript Basics , Python
+ *  Github, Git
+ * VS Code, InteliJ Idea, PyCharm
+ * Figma,  Adobe Ilustrator , Canva
+
+***
