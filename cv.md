@@ -60,3 +60,16 @@ __With a strong drive for self-improvement and passion for programming🖥️�
     displayAndReplacePhrase();
 
 ***
+
+### Courses:
+
+* __JavaScript Epam Kids (completed)__
+![js_certificate](assets/images_md/certificates/js_certificate.png)
+
+* __Java Epam Kids (completed)__
+![java_certificate](assets/images_md/certificates/java_certificate.png)
+
+* __Rolling Scopes JavaScript Stage#0 (completed)__
+![rsschool_stage0](assets/images_md/certificates/stage0.jpg)
+
+***
