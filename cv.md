@@ -30,3 +30,33 @@ __With a strong drive for self-improvement and passion for programming🖥️�
  * Figma,  Adobe Ilustrator , Canva
 
 ***
+
+### Code Example:
+    function displayAndReplacePhrase() {
+        const originalPhrase = "My CV is amazing";
+        let displayElement = document.getElementById("display-element"); 
+
+        for (let i = 0; i < originalPhrase.length; i++) {
+
+            setTimeout(() => {
+                displayElement.innerHTML += originalPhrase[i];
+            }, i * 100); 
+        }
+
+        setTimeout(() => {
+            displayElement.innerHTML = "";
+        }, originalPhrase.length * 100); 
+
+        setTimeout(() => {
+            const newPhrase = "I'm coding right now";
+        for (let i = 0; i < newPhrase.length; i++) {
+                setTimeout(() => {
+                    displayElement.innerHTML += newPhrase[i];
+                }, i * 100); 
+            }
+        }, originalPhrase.length * 100 + 500);
+    }
+
+    displayAndReplacePhrase();
+
+***
